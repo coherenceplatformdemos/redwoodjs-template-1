@@ -199,7 +199,7 @@ export default function Example() {
                       </span>{' '}
                       by over{' '}
                       <span className="font-medium text-rose-500">
-                        500 beta users
+                        1000 beta users
                       </span>
                     </div>
                   </div>
